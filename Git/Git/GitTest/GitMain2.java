@@ -6,5 +6,6 @@ public class GitMain2 {
 		// TODO Auto-generated method stub
 		System.out.println("dddddd");
 		System.out.println("aaaaaa");
+		System.out.println("testtest");
 	}
 }
